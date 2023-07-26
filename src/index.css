@@ -15,3 +15,21 @@ code {
   width: 80px;
   border-radius: 50px;
 }
+.avatar-img{
+  width: 100px;
+  border-radius: 80px;
+}
+.selected{
+  border: 2px solid rgb(88,6,109);
+  background-color: rgb(205,171,211);
+ 
+
+}
+.image-author{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.select{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
